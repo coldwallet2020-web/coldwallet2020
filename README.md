@@ -3,9 +3,7 @@ Cold Storage for Bitcoin and other Cryptocurrencies
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The coldwallet2020.com project, software and embedded resources are copyright coldwallet2020.com.
-
-The coldwallet2020.com name and logo are not part of the open source license.
+The coldwallet2020.com project, software and embedded resources are copyright coldwallet2020.org  The coldwallet2020.org name and logo are not part of the open source license.
 
 Requires
 ---------------------------------------
